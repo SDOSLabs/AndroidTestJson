@@ -1,0 +1,10 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "publishDate": "11/05/2020",
+      "title": "Wiki Base Project",
+      "description": "https://git.sdos.es/android/kotlin/Kotlin-BaseProject/-/wikis/home"
+    }
+  ]
+}
